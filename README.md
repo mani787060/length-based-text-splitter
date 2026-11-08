@@ -285,6 +285,3 @@ By exploring this project, you can understand:
 - Store chunks in FAISS or Chroma.
 - Build a complete RAG-based question-answering application.
 - Evaluate how chunking strategies influence retrieval quality.
-
----
-
